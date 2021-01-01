@@ -1,0 +1,14 @@
+input[type="button"]{
+    width:95%;
+    background-color: green;
+    color: black;
+    font-size: 25px;
+    border: solid black 2px;
+}
+
+input[type="text"]{
+    background-color: white;
+    border: solid black 2px;
+    width: 100%;
+    font-size: 25px;
+}
